@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OAuth App">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e4b54"/>
+      <stop offset="100%" stop-color="#c07f49"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#fff7ed"/>
+  <circle cx="32" cy="22" r="10" fill="url(#g)"/>
+  <path
+    d="M18 46c3-8 9-12 14-12s11 4 14 12"
+    fill="none"
+    stroke="url(#g)"
+    stroke-linecap="round"
+    stroke-width="7"
+  />
+</svg>
